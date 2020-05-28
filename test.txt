@@ -2,4 +2,4 @@
 추가 내용
 practice 2에만 있는 내용
 누가 이렇게 고치면?
-fetch
+fetchd
